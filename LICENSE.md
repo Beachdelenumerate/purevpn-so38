@@ -1,4 +1,4 @@
-
+top PureVPN Connector | L2TP-support + PPTP-support is the best PureVPN connector, featuring L2TP-support and PPTP-support. Secure, fast, and optimized for privacy.
 
 
 
